@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Rodar com Arquivo TXT",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "trabalho-fpaa-simplex_224ede1d",
+            "args": [
+                "exemplos/exemplo3_clrs.txt"
+            ]
+        }
+    ]
+}
